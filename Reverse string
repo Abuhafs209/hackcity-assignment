@@ -1,0 +1,8 @@
+Start
+Read inputted string
+Calculate length of string
+Initialize change as empty
+Initialize I= (length-1)
+Repeat until i = 0
+Print new string
+Stop
